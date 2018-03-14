@@ -24,7 +24,7 @@ name 192.168.6.7 <name> description some words here
 lookup is case insensitive
 
 Usage:
-python .\asa_named_lookup.py -l <'path/to/name-to-object.txt'> -v <named-host>
+python asa_named_lookup.py -l <'path/to/name-to-object.txt'> -v <named-host>
 
 [I 180314 13:59:31 asa_named_lookup:65] Found: name 192.168.6.7 <named-host>, on line 4
 [I 180314 13:59:31 asa_named_lookup:71] Object: <named-host>, IP: 192.168.6.7
