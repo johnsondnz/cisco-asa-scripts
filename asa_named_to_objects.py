@@ -40,7 +40,7 @@ object network MAPPED_TEST2-192.168.5
 !
 
 Usage:
-python .\asa_named_to_objects.py -i <'path/to/name-to-object.txt'> -o <'path/to/file.txt'>
+python asa_named_to_objects.py -i <'path/to/name-to-object.txt'> -o <'path/to/file.txt'>
 =======================================================================
 '''
 
