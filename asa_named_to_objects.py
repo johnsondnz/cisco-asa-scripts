@@ -25,13 +25,13 @@ name 192.168.5.50 test2-nat
 
 to 
 
-object network REAL_TEST
+object network TEST
  host 1.1.1.1
 !
-object network REAL_TEST_2
+object network TEST_2
  host 2.2.2.2
 !
-object network REAL_TEST3
+object network TEST3
  host 2.2.2.2
  description some text here
 !
