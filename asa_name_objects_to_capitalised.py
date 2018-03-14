@@ -18,7 +18,7 @@ Requirements:
 simply converts all name elements to uppercase, cause I like my objects to be in caps
 
 Usage:
-python .\asa_name_objects_to_capitalised.py -i <'path/to/name-to-object.txt'> -o <'path/to/file.txt'>
+python asa_name_objects_to_capitalised.py -i <'path/to/name-to-object.txt'> -o <'path/to/file.txt'>
 =======================================================================
 '''
 
