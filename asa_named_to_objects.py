@@ -112,7 +112,7 @@ if __name__ == "__main__":
                     out.write('object network MAPPED_{}-{}.{}.{}\n'.format(
                         object_name.upper(), ip_octets[0], ip_octets[1], ip_octets[2]))
 
-                # all other name objects with be real addresses
+                # all other name objects will be real addresses
                 else:
                     logger.info('Object created: {}\n'.format(
                         object_name.upper()))
